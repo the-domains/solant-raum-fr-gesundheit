@@ -1,8 +1,19 @@
-typography_spectrum: 0.8999421189073473
+title: SOLANT
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.03965000482276082
-  lightness: 0.998874701326713
   saturation: 0.6523166783154011
+  brandStrength: 0.03965000482276082
   rhythmicContrast: 0.4823891380801797
   brandColors:
     - '#B9121B'
@@ -10,7 +21,8 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
-layout_spectrum: 0.9093081476166844
-name: SOLANT - Raum für Gesundheit
-title: SOLANT
+  lightness: 0.998874701326713
+typography_spectrum: 0.5225564
 description: Raum für Gesundheit
+layout_spectrum: 0.9072682
+name: SOLANT - Raum für Gesundheit
