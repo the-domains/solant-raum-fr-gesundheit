@@ -14,14 +14,14 @@ collections:
 color:
   saturation: 0.6523166783154011
   brandStrength: 0.03965000482276082
-  rhythmicContrast: 0.4823891380801797
-  brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
   lightness: 0.998874701326713
+  brandColors:
+    - '#FFFFFF'
+    - '#B44E4A'
+    - '#161616'
+    - '#FF897B'
+    - '#9A8477'
+  rhythmicContrast: 0.4823891380801797
 typography_spectrum: 0.5225564
 description: Raum für Gesundheit
 layout_spectrum: 0.9072682
