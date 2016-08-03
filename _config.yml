@@ -6,9 +6,10 @@ color:
   saturation: 0.6523166783154011
   rhythmicContrast: 0.4823891380801797
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 name: SOLANT - Raum für Gesundheit
+title: SOLANT
