@@ -1,4 +1,3 @@
-layout_spectrum: 0.9093081476166844
 typography_spectrum: 0.8999421189073473
 color:
   brandStrength: 0.03965000482276082
@@ -11,5 +10,7 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+layout_spectrum: 0.9093081476166844
 name: SOLANT - Raum für Gesundheit
 title: SOLANT
+description: Raum für Gesundheit
