@@ -1,17 +1,21 @@
-typography_spectrum: 0.31669913069345057
+typography_spectrum: 0.5225564
 color:
-  saturation: 0.7202826875727624
-  brandStrength: 0.035992907360196114
-  lightness: 0.8105908678844571
+  saturation: 0.6523166783154011
+  brandStrength: 0.03965000482276082
+  lightness: 0.998874701326713
   brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
-  rhythmicContrast: 0.7970968324225396
-layout_spectrum: 0.014887452591210604
+    - '#FFFFFF'
+    - '#B44E4A'
+    - '#161616'
+    - '#FF897B'
+    - '#9A8477'
+  rhythmicContrast: 0.4823891380801797
+layout_spectrum: 0.9072682
 name: SOLANT
+navigation:
+  - name: Über mich
+    url: 'http://berndbosbach.de'
+    type: external
 collections:
   - index:
       path: /
