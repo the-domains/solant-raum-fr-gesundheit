@@ -1,15 +1,15 @@
 ---
-description: Wasser - Ursprung des Lebens
-dateModified: '2016-08-03T17:37:02.997Z'
-datePublished: '2016-08-03T17:37:37.531Z'
-title: Wasser - Unwinding
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-04T08:41:44.180Z'
+sourcePath: _posts/2016-08-03-wasser-unwinding.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef6a30a9-4efb-4f99-9cfb-ecb8ba72c39a.jpg
+author: []
+via: {}
+dateModified: '2016-08-04T08:41:43.601Z'
+title: Wasser - Unwinding
+publisher: {}
+description: Wasser - Ursprung des Lebens
 starred: false
-sourcePath: _posts/2016-08-03-wasser-unwinding.md
 inFeed: true
 hasPage: false
 inNav: false
